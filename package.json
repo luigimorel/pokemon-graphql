@@ -1,0 +1,29 @@
+{
+  "name": "pokemon-graphql",
+  "version": "0.1.0",
+  "description": "A simple pokemon app built with graphql and react hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~\u001b[2~https://github.com/morelmiles/pokemon-graphql.git "
+  },
+  "keywords": [
+    "Pokemon",
+    "Graphql",
+    "React",
+    "React-hooks"
+  ],
+  "author": "Luigi Morel <morelmiles@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.3",
+    "apollo-boost": "^0.4.7",
+    "graphql": "^14.6.0",
+    "graphql-tag": "^2.10.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
