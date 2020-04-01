@@ -5,12 +5,12 @@ about React Hooks and Graphql.
 
 ## Dependencies
 
-_React_
-_React Hooks_
-_Grapql-tag_
-_Apollo Hooks_
-_Graphql_
-_Grapql Boost_
+_React_,
+_React Hooks_,
+_Grapql-tag_,
+_Apollo Hooks_,
+_Graphql_,
+_Grapql Boost_,
 
 ## INSTALLATION
 
